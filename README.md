@@ -34,8 +34,8 @@ url("https://data.whicdn.com/images/277722125/original.gif");
   
 <h1>Изучение предметов для поступления в вуз</h1>
 <div class="lis">
-<p><a href="http://mf.github.io/math.html">Математика</a></p>
-<p><a href="http://mf.github.io/russian.html">Русский язык и Литература</a></p>
+<p><a href="http://mftna.github.io/math.html">Математика</a></p>
+<p><a href="http://mftna.github.io/russian.html">Русский язык и Литература</a></p>
 </div>
 
 </body>
