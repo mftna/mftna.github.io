@@ -9,7 +9,7 @@
  <style>
    
  body{
-     
+     color: white
  background-image: 
 url("https://data.whicdn.com/images/277722125/original.gif");
    background-repeat:no-repeat;
