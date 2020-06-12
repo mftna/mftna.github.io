@@ -17,7 +17,7 @@ url("https://data.whicdn.com/images/277722125/original.gif");
    background-attachment: fixed;
    background-position: center;
    width: 100%;
-  height: auto;
+  height: 100%;
  }
  h1{
   color: white;
