@@ -39,6 +39,16 @@ url("https://data.whicdn.com/images/277722125/original.gif");
 
 <p><a href="http://mftna.github.io/russian.html">Русский язык и Литература</a></p>
 </div>
+<h2>Contact us</h2>
+<form>
+  Name:<br>
+  <input type="text"><br><br>
+  Email:
+  <input type="text"><br><br>
+  <button>SUBMIT</button>
+  
+  
+</form>
 
 </body>
 
