@@ -13,8 +13,9 @@
  background-image: 
 url("https://data.whicdn.com/images/277722125/original.gif");
    background-repeat:no-repeat;
-   background-size:cover;
+   background-size:auto;
    background-attachment: fixed;
+   background-position: center;
  }
  h1{
   color: white;
