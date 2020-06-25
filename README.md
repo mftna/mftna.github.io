@@ -20,7 +20,6 @@
 #tabl{
 background-color: white;
   width: 200px;
- position: fixed;
   margin-top: -100px:
   padding-left: 25px;
   padding-right: 75px;
