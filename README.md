@@ -14,7 +14,7 @@
   <div id="tabl">
   <table>
    <tr>
-     <th><button class="home">Home</button></th>
+     <th><button class="home"><a href="https://mftna.github.io/">Home</a></button></th>
     </tr>
    </table>
    </div>
