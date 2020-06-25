@@ -6,19 +6,8 @@
   
 <title>Русский язык</title>
 <style>
-  body{
-  background-image: url("https://data.whicdn.com/images/277722125/original.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  }
- .backg{
-  background-color: white;
-  padding: 25px 50px 75px 100px;
-  margin-top: 100px;
-  } 
+<link rel="stylesheet" href="https://mftna.github.io/style.css">
 </style>
-
 </head>
 
 
