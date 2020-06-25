@@ -7,7 +7,7 @@
 <title>Русский язык</title>
 <style>
   body{
-  background-image: url(""https://data.whicdn.com/images/277722125/original.gif"");
+  background-image: url("https://data.whicdn.com/images/277722125/original.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
