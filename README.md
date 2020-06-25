@@ -7,7 +7,7 @@
 <title>Русский язык</title>
 <style>
   body{
-  background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg");
+  background-image: url(""https://data.whicdn.com/images/277722125/original.gif"");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
