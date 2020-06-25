@@ -11,7 +11,9 @@
   margin-top: 100px;
   }
 #tabl{
-background-color: gray;
+background-color: white;
+  width: 200px;
+ position: fixed;
 }
 .home{
   color: white;
