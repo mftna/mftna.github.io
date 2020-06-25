@@ -6,8 +6,15 @@
   
 <title>Русский язык</title>
 <style>
+  body{
+  background-image: ulr("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg")
+  }
  .backg{
-  background-color: red;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:20px;
   } 
 </style>
 
