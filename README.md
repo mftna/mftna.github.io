@@ -12,12 +12,13 @@
 
 <body>
   <div class="tabl">
-   </div>
+   
   <table>
    <tr>
      <th class="home">Home<th>
     </tr>
    </table>
+   </div>
   <div class="backg">
  <script>
    alert("Hello!");
