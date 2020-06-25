@@ -11,7 +11,7 @@
 
 
 <body>
-  <div class="tabl">
+  <div id="tabl">
   <table>
    <tr>
      <th><button class="home">Home</button></th>
