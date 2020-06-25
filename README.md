@@ -39,9 +39,7 @@ background-color: white;
    </table>
    </div>
   <div class="backg">
- <script>
-   alert("Hello!");
- </script>  
+ <script src="https://mftna.github.io/alert.js"></script>  
 <h1>Изучение предметов для поступления в вуз</h1>
 
 <a href="http://mftna.github.io/math.html">Математика</a>
