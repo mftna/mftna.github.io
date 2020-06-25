@@ -7,8 +7,7 @@
 <title>Русский язык</title>
 <style>
   .main{
-  background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg")
-  padding: 100%;
+  background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg";
   }
  .backg{
   background-color: white;
