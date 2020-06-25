@@ -11,7 +11,7 @@
   }
  .backg{
   background-color: white;
-  
+  padding: 25px 50px 75px 100px;
   } 
 </style>
 
