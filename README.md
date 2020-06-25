@@ -15,12 +15,12 @@
  .backg{
   background-color: white;
   padding: 20px 20px 20px 20px;
- opacity:0.7;
   }
 #tabl{
 background-color: white;
   width: 200px;
  position: fixed;
+  margin-top: -100px:
 }
 
 
