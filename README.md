@@ -5,8 +5,27 @@
 <meta charset="utf-8">
   
 <title>Русский язык</title>
+<style>
+  body{
+  background-image: url("https://data.whicdn.com/images/277722125/original.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+ .backg{
+  background-color: white;
+  padding: 20px 20px 20px 20px;
+ opacity:0.7;
+  }
+#tabl{
+background-color: white;
+  width: 200px;
+ position: fixed;
+}
 
-<link rel="stylesheet" href="https://mftna.github.io/style.css">
+
+ </style>
+
 </head>
 
 
