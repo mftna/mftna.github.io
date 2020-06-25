@@ -11,6 +11,13 @@
 
 
 <body>
+  <div class="tabl">
+   </div>
+  <table>
+   <tr>
+     <th class="home">Home<th>
+    </tr>
+   </table>
   <div class="backg">
  <script>
    alert("Hello!");
