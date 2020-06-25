@@ -36,8 +36,8 @@ background-color: white;
   <table>
    <tr>
      <th><a href="https://mftna.github.io/">Home</a></th>
-     <th><a href="http://mftna.github.io/math.html">Математика</a></th>
-     <th><a href="http://mftna.github.io/russian.html">Русский язык и Литература</a><th>
+     <th><a href="http://mftna.github.io/math.html">Мат</a></th>
+     <th><a href="http://mftna.github.io/russian.html">Рус. и Литер</a><th>
     </tr>
    </table>
    </div>
