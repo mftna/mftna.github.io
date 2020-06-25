@@ -5,9 +5,8 @@
 <meta charset="utf-8">
   
 <title>Русский язык</title>
-<style>
+
 <link rel="stylesheet" href="https://mftna.github.io/style.css">
-</style>
 </head>
 
 
