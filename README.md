@@ -9,9 +9,8 @@
   body{
   background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg");
   background-repeat: no-repeat;
-  background-position: fixed;
-  width: 100%;
-  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
   }
  .backg{
   background-color: white;
