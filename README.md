@@ -14,7 +14,8 @@
   }
  .backg{
   background-color: white;
-  padding: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 100px;
+  margin-top:100px;
   }
 #tabl{
 background-color: white;
