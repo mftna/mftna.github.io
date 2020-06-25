@@ -12,10 +12,9 @@
 
 <body>
   <div class="tabl">
-   
   <table>
    <tr>
-     <th class="home">Home<th>
+     <th><button class="home">Home</button></th>
     </tr>
    </table>
    </div>
