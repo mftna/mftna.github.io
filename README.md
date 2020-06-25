@@ -14,7 +14,8 @@
 
 <body>
 <script>
-  alert('Hello!');
+  var one = "Hello";
+  alert(one);
  </script>
   
 <h1>Изучение предметов для поступления в вуз</h1>
