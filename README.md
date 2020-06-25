@@ -14,7 +14,7 @@
   }
  .backg{
   background-color: white;
-  padding: 20px 20px 20px 100px;
+  padding: 25px 50px 75px 100px;
   margin-top:100px;
   }
 #tabl{
@@ -22,6 +22,8 @@ background-color: white;
   width: 200px;
  position: fixed;
   margin-top: -100px:
+  padding-left: 25px;
+  padding-right: 75px;
 }
 
 
