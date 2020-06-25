@@ -6,8 +6,9 @@
   
 <title>Русский язык</title>
 <style>
-  body{
+  .main{
   background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg")
+  padding: 100%;
   }
  .backg{
   background-color: white;
@@ -19,6 +20,7 @@
 
 
 <body>
+  <div class="main">
   <div class="backg">
 <h1>Изучение предметов для поступления в вуз</h1>
 
@@ -35,6 +37,7 @@
   
   
 </form>
+</div>
 </div>
 </body>
 
