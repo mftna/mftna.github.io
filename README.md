@@ -6,10 +6,6 @@
   
 <title>Русский язык</title>
 
- }
-  
-</style>
-
 </head>
 
 <body>
