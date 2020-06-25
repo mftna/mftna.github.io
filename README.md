@@ -6,7 +6,7 @@
   
 <title>Русский язык</title>
 <style>
-  #main{
+  body{
   background-image: url("https://c7.alamy.com/comp/M4RGKF/the-background-in-many-compositions-gives-the-whole-project-a-climate-M4RGKF.jpg");
   background-repeat: no-repeat;
   background-position: fixed;
@@ -23,7 +23,6 @@
 
 
 <body>
-  <div id="main">
   <div class="backg">
 <h1>Изучение предметов для поступления в вуз</h1>
 
@@ -40,7 +39,6 @@
   
   
 </form>
-</div>
 </div>
 </body>
 
