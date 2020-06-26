@@ -55,8 +55,6 @@ background-color: white;
   
   
 </form>
-<img src="http://mftna.github.io/photo_2020-06-26_19-28-05.jpg" width="50px" height="30px">
-
 </div>
 </body>
 
