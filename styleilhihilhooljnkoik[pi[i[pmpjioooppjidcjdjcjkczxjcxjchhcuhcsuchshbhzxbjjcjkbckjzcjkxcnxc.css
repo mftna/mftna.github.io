@@ -13,10 +13,10 @@
 #tabl{
 background-color: white;
   width: 400px;
-  height: 25px;
+  height: 50px;
  position: fixed;
   margin-top:-100px;
-  margin-left:25px;
+  margin-left:100px;
   margin-right:75px;
   padding-left: 50px;
 }
